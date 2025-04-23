@@ -1,0 +1,1 @@
+{"Dante": {"snake": [[420, 120], [440, 120], [460, 120], [480, 120]], "snake_dir": [-20, 0], "food_count": 1, "food_position": [780, 480], "food_value": 2, "wall_pattern": [[200, 200, 400, 20]], "score": 2, "level": 1, "speed": 10}}
